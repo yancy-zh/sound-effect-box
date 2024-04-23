@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "//yancy-zh.github.io/sound-effect-box/static/css/main.828827f6.css",
-    "main.js": "//yancy-zh.github.io/sound-effect-box/static/js/main.744ed571.js",
+    "main.js": "//yancy-zh.github.io/sound-effect-box/static/js/main.70000a12.js",
     "static/js/453.c1c5ab78.chunk.js": "//yancy-zh.github.io/sound-effect-box/static/js/453.c1c5ab78.chunk.js",
     "index.html": "//yancy-zh.github.io/sound-effect-box/index.html",
     "main.828827f6.css.map": "//yancy-zh.github.io/sound-effect-box/static/css/main.828827f6.css.map",
-    "main.744ed571.js.map": "//yancy-zh.github.io/sound-effect-box/static/js/main.744ed571.js.map",
+    "main.70000a12.js.map": "//yancy-zh.github.io/sound-effect-box/static/js/main.70000a12.js.map",
     "453.c1c5ab78.chunk.js.map": "//yancy-zh.github.io/sound-effect-box/static/js/453.c1c5ab78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.828827f6.css",
-    "static/js/main.744ed571.js"
+    "static/js/main.70000a12.js"
   ]
 }
